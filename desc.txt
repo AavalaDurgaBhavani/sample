@@ -1,1 +1,1 @@
-This is the sample file for merge conficts.
+This is the sample file for merge conficts by emp1
